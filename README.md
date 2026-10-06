@@ -67,7 +67,7 @@ The DRaaS market spans **cloud-native replication services** (AWS Elastic Disast
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[restic](https://github.com/restic/restic)** [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) ⚡  
   **Fast, secure, and efficient backup program**, BSD-2-Clause licensed. **De-duplicates, encrypts (AES-256), and verifies** backup snapshots natively. Supports local storage, SFTP, AWS S3, OpenStack Swift, MinIO, Azure Blob, and Backblaze B2. **The premier modern open-source tool for cloud disaster recovery snapshots**. 🔒
